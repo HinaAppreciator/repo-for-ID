@@ -1,0 +1,27 @@
+/* CLASS AND ATTRIBUTES GO HERE*/
+body{
+    background-color: #122f57; ;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.aboutbox {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: #7A9AB5;
+        justify-content: space-around;
+        flex-direction:row;
+  }
+    .aboutbox > div {
+    background-color: #252F3F;
+      color: white;
+      width: 180px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+      text-align: center;
+  } 
+  .navigation a:link{
+    text-decoration: none;
+  }
