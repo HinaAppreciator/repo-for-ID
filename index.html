@@ -26,10 +26,37 @@
 </div>
 </nav>
 
-<h1>welcome to the Game Development Department website!</h1>
+
+<div class="hero">
+    <div class="title">
+            <h1 >GAME DEVELOPMENT DEPARTMENT</h1>
+            <div class="backtext">
+              <span>W</span>
+              <span>E</span>
+              <span>L</span>
+              <span>C</span>
+              <span>O</span>
+              <span>M</span>
+              <span>E</span>
+            </div>
+    </div>
+</div>
+
 <p> this part of the website describes what it does (display the game, game mechanics etc etc)</p>
 
 <footer></footer>
+<script>
+
+let spanTexts = document.getElementsByTagName("span");
+
+    window.onload = function(){
+
+        for(spanTexts of spanTexts){
+          spanTexts.classList.add("active");
+        }
+
+  }
+</script>
 <!--NOTHING ELSE GOES BELOW, EVERYTHING ABOVE-->
 </body>
 </html>
