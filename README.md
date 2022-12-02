@@ -5,6 +5,10 @@ One or two paragraphs providing an overview of your project. Tell us about your 
 
 Essentially, this part is your sales pitch.
 
+This website is to bring a fictional game company into real life. It is mainly based off the Game Development Department from Blue Archive, which has
+4 members that all share a love for console games. Because they love console games so much, they have deciede to make their own game from scratch. So far, two games
+have been published. This website is a medium for this company to put their games up to let other people experience their game and to give reviews on how well the game 
+was made. A suggestions page is added so people can leave reviews after they have tried the game.
 
 
 Design Process
@@ -14,6 +18,10 @@ In particular, as part of this section we recommend that you provide a list of U
 
 As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+
+As a player of the game, i would like to leave a review on the game i have just played.
+
+
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
