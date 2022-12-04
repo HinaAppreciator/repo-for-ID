@@ -3,7 +3,7 @@ Game Development Department
 
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
-Essentially, this part is your sales pitch.
+
 
 This website is to bring a fictional game company into real life. It is mainly based off the Game Development Department from Blue Archive, which has
 4 members that all share a love for console games. Because they love console games so much, they have deciede to make their own game from scratch. So far, two games
@@ -14,10 +14,9 @@ was made. A suggestions page is added so people can leave reviews after they hav
 Design Process
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+
+As a visitor of the website, i would like to see what this website has in store.
 
 As a player of the game, i would like to leave a review on the game i have just played.
 
@@ -26,16 +25,17 @@ As a player of the game, i would like to leave a review on the game i have just 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
+website navigation bar animated
+
+built in feedback form for users to leave review
+
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
 ...
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
-Interactive form
-Proper navigation bar
-Image pop up(?)
-
+None
 
 
 Technologies Used
@@ -48,20 +48,23 @@ The project uses JQuery to simplify DOM manipulation.
 Testing
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
+feedback form:
+empty message will return invalid
+empty name will not return invalid
+
+
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
 You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+while making the website, trying to view it on mobile causes a whitespace the the right side.
+
+you need to click on the text and not the image itself to access the other pages.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+N/A
 
 
 Media
